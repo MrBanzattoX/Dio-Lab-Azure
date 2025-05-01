@@ -9,7 +9,7 @@ import pandas as pd
 # Configurações do Azure Storage
 CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=stadiolab01;AccountKey=w/JH5023cqwbbdYZLQ23PtU7sigjsCrEGgCBT0laN7jtpbnqP6JYVokocxDb7kjmN68khmDePLNo+AStvwz87g==;EndpointSuffix=core.windows.net"
 CONTAINER_NAME = "produtos"
-ACCOUNT_NAME = "stadiolab01"
+ACCOUNT_NAME = "stabnz001"
 
 # Configurações do Azure SQL Server
 SQL_SERVER   = "sqlsrvdio001.database.windows.net"
